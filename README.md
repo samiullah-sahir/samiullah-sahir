@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Samiullah Sahir</h1>
 <h3 align="center">Full-stack web developer</h3>
 
-<img  align = "center" src="./img/coding.gif">
+<img  align = "center" src="./imgages/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiullah-sahir&label=Profile%20views&color=0e75b6&style=flat" alt="samiullah sahir" /> </p>
 
